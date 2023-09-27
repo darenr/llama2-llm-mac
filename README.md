@@ -29,5 +29,5 @@ llm llama-cpp download-model \
 ## Try llama2 out:
 
 ```bash
-llm -m l2c 'How far is the moon from the earth?'
+llm -m llama2-chat 'How far is the moon from the earth?'
 ```
