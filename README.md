@@ -15,8 +15,7 @@ llm install llm-llama-cpp
 ## Install the llama-cpp-python bindings
 
 ```bash
-llm install https://static.simonwillison.net/static/2023/llama_cpp_python-0.1.77-cp311-cp311-macosx_13_0_arm64.whl
-```
+pip install llama-cpp-python```
 
 ## Install model
 
