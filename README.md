@@ -15,7 +15,8 @@ llm install llm-llama-cpp
 ## Install the llama-cpp-python bindings
 
 ```bash
-pip install llama-cpp-python```
+pip install llama-cpp-python
+```
 
 ## Install model
 
